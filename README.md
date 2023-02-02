@@ -7,8 +7,8 @@ Electronic and Computer Engineering Student at [UFRJ](https://ufrj.br/en/).
   - Software & Electronic's Manager at [Minerva Náutica](https://minervanautica.poli.ufrj.br/) (Sep 2017 - Dec 2018).
   - Software developer at [Minerva Náutica](https://minervanautica.poli.ufrj.br/) (Jan 2019 - Dec 2019).
   - Data Engineer Intern at [Intuitive Care](https://www.intuitivecare.com/) (Jun 2019 - Oct 2020).
-  - Data Scientist at [Fu2re Smart Solutions](https://www.fu2re.com.br/) (Nov 2020 - Current).
-
+  - Data Scientist at [Fu2re Smart Solutions](https://www.fu2re.com.br/) (Nov 2020 - Nov 2022).
+  - Data Engineer at [HURB](https://www.hurb.com/br/) (Dez 2022 - Current).
 ### Github Stats
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmadruga&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
